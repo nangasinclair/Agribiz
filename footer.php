@@ -1,0 +1,1 @@
+</main><div id="toast" role="status" aria-live="polite"></div><footer class="foot">&copy; 2026 AgriBiz. Fresh produce, straight from the farm.</footer><script src="<?=BASE?>js/app.js"></script></body></html>
