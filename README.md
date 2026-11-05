@@ -77,6 +77,29 @@ The first time a login page loads, an administrator account is created if none e
 
 ---
 
+## My login details
+
+Write your own accounts and passwords here.
+
+| Role | Name | Email | Password |
+|---|---|---|---|
+| Administrator | | | |
+| Farmer | | | |
+| Buyer | | | |
+
+**Database (phpMyAdmin / `config.php`)**
+
+- Username: 
+- Password: 
+
+**Hosting / GitHub / other**
+
+- Platform: 
+- Username: 
+- Password: 
+
+---
+
 ## How to use it (typical flow)
 
 1. A farmer registers with the role **Farmer**.
