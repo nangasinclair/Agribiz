@@ -83,9 +83,9 @@ Write your own accounts and passwords here.
 
 | Role | Name | Email | Password |
 |---|---|---|---|
-| Administrator | | | |
-| Farmer | | | |
-| Buyer | | | |
+| Administrator |Admin| admin@agribiz.ke|Admin@123 |
+| Farmer | sinclair| nangasinclair81@gmail.com|na2003nga |
+| Buyer | king| nangaj772@gmail.com| sin12345|
 
 **Database (phpMyAdmin / `config.php`)**
 
